@@ -9,7 +9,8 @@ int main(void)
 	printf("Hello World 5!\n");
 	printf("Hello World 6!\n");
 	
-	int num = 1;
+	int num = 3;
 	printf("num : %d\n", num);
+	printf("num : %d\n", ++num);
 	return 0;
 }
