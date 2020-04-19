@@ -8,5 +8,8 @@ int main(void)
 	printf("Hello World 4!\n");
 	printf("Hello World 5!\n");
 	printf("Hello World 6!\n");
+	
+	int num = 1;
+	printf("num : %d\n", num);
 	return 0;
 }
